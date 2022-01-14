@@ -10,11 +10,11 @@ Each single LED can be controller with 256 step, then each RGB LED are encoded w
 The controller is the [ IS31FL3746](https://www.lumissil.com/assets/pdf/core/IS31FL3746A_DS.pdf)
 
 In this repository you can find:
-- [Schematic](EncoderRingV1.1.PDF)
-- [Gerbers](/Hardware/Gerber%20Files/)
+- [Schematic](EncoderRingSmall.PDF)
+- [Gerbers](/Hardware/Gerber/)
 - [BOM](/Hardware/BOM/)
 - [Pick & Place](/Hardware/Pick%20Place/)
-- [3D File](/Hardware/STEP/)
+- [3D File](/Hardware/ExportSTEP/)
 
 [Here you can find the Arduino library](https://github.com/Fattoresaimon/ArduinoDuPPaLib)
 
