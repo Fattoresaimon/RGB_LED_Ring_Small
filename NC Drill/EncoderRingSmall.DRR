@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EncoderRingSmall.PcbDoc   02/11/2021  11:42:19
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : EncoderRingSmall-Plated.TXT
+ASCII Non-Plated RoundHoles File : EncoderRingSmall-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             128       PTH        12.74inch (323.62mm)
+T2      15mil (0.381mm)                                           Round             40        PTH        6.09inch (154.62mm)
+T3      16mil (0.4mm)                                             Round             40        PTH        5.27inch (133.77mm)
+T4      20mil (0.508mm)                                           Round             8         PTH        1.83inch (46.39mm)
+T5      126mil (3.2mm)                                            Round             4         NPTH       3.78inch (96.00mm)
+T6      354mil (9mm)                                              Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              221
+
+Total Processing Time (hh:mm:ss) : 00:00:00

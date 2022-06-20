@@ -1,0 +1,527 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 5 0.5314961 0.3307087 90 N R22 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0751RL'
+PRP Value '51r'
+TOP 0 0.5314961 0.3474413 90 N 30 0 R22-1
+TOP 1 0.5314961 0.3139761 90 N 7 1 R22-2
+#
+# CMP 1
+CMP 5 0.6299213 0.0984252 90 N R21 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0720RL'
+PRP Value '20r'
+TOP 0 0.6299213 0.1151575 90 N 29 0 R21-1
+TOP 1 0.6299213 0.0816929 90 N 8 0 R21-2
+#
+# CMP 2
+CMP 5 0.6496063 0 90 N R20 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0720RL'
+PRP Value '20r'
+TOP 0 0.6496063 0.0167323 90 N 28 0 R20-1
+TOP 1 0.6496063 -0.0167323 90 N 9 0 R20-2
+#
+# CMP 3
+CMP 5 0.3307087 -0.5629921 0 N R19 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0751RL'
+PRP Value '51r'
+TOP 0 0.347441 -0.5629921 180 N 33 0 R19-1
+TOP 1 0.3139764 -0.5629921 180 N 10 0 R19-2
+#
+# CMP 4
+CMP 5 0.2526721 -0.5902787 0 N R18 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0720RL'
+PRP Value '20r'
+TOP 0 0.2694044 -0.5902787 180 N 32 0 R18-1
+TOP 1 0.2359398 -0.5902787 180 N 11 0 R18-2
+#
+# CMP 5
+CMP 5 0.4448819 -0.5866142 45 N R17 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0720RL'
+PRP Value '20r'
+TOP 0 0.4567134 -0.5747827 135 N 31 0 R17-1
+TOP 1 0.4330504 -0.5984457 135 N 12 0 R17-2
+#
+# CMP 6
+CMP 5 0.0688976 -0.6338583 225 N R16 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0751RL'
+PRP Value '51r'
+TOP 0 0.0570661 -0.6456898 315 N 36 0 R16-1
+TOP 1 0.0807291 -0.6220268 315 N 13 0 R16-2
+#
+# CMP 7
+CMP 5 0.0127953 -0.6259843 225 N R15 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0720RL'
+PRP Value '20r'
+TOP 0 0.0009638 -0.6378158 315 N 35 0 R15-1
+TOP 1 0.0246268 -0.6141528 315 N 14 0 R15-2
+#
+# CMP 8
+CMP 5 -0.023622 -0.6102362 225 N R14 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0720RL'
+PRP Value '20r'
+TOP 0 -0.0354535 -0.6220677 315 N 34 0 R14-1
+TOP 1 -0.0117905 -0.5984047 315 N 15 0 R14-2
+#
+# CMP 9
+CMP 5 -0.1141732 -0.6102362 225 N R13 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0751RL'
+PRP Value '51r'
+TOP 0 -0.1260047 -0.6220677 315 N 39 0 R13-1
+TOP 1 -0.1023417 -0.5984047 315 N 16 0 R13-2
+#
+# CMP 10
+CMP 5 -0.1496063 -0.5708661 180 N R12 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0720RL'
+PRP Value '20r'
+TOP 0 -0.1663386 -0.5708661 0 N 38 0 R12-1
+TOP 1 -0.132874 -0.5708661 0 N 17 0 R12-2
+#
+# CMP 11
+CMP 5 -0.1495519 -0.5361391 180 N R11 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0720RL'
+PRP Value '20r'
+TOP 0 -0.1662842 -0.5361391 0 N 37 0 R11-1
+TOP 1 -0.1328196 -0.5361391 0 N 18 0 R11-2
+#
+# CMP 12
+CMP 5 -0.3263425 -0.5376003 180 N R10 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0751RL'
+PRP Value '51r'
+TOP 0 -0.3430748 -0.5376003 0 N 42 0 R10-1
+TOP 1 -0.3096102 -0.5376003 0 N 19 0 R10-2
+#
+# CMP 13
+CMP 5 -0.3901415 -0.5025863 180 N R9 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0720RL'
+PRP Value '20r'
+TOP 0 -0.4068738 -0.5025863 0 N 41 0 R9-1
+TOP 1 -0.3734092 -0.5025863 0 N 20 0 R9-2
+#
+# CMP 14
+CMP 5 -0.3356717 -0.4696565 180 N R8 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0720RL'
+PRP Value '20r'
+TOP 0 -0.352404 -0.4696565 0 N 40 0 R8-1
+TOP 1 -0.3189394 -0.4696565 0 N 21 0 R8-2
+#
+# CMP 15
+CMP 5 -0.6299213 0.1968504 90 N R7 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0751RL'
+PRP Value '51r'
+TOP 0 -0.6299213 0.2135827 90 N 48 0 R7-1
+TOP 1 -0.6299213 0.1801181 90 N 22 0 R7-2
+#
+# CMP 16
+CMP 5 -0.5905512 0.1574803 90 N R6 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0720RL'
+PRP Value '20r'
+TOP 0 -0.5905512 0.1742126 90 N 47 0 R6-1
+TOP 1 -0.5905512 0.140748 90 N 23 0 R6-2
+#
+# CMP 17
+CMP 5 -0.5511811 0.1968504 90 N R5 R-EU_R0402 ;0=1,1=0.0087
+PRP PartNumber 'RC0402JR-0720RL'
+PRP Value '20r'
+TOP 0 -0.5511811 0.2135827 90 N 46 0 R5-1
+TOP 1 -0.5511811 0.1801181 90 N 24 0 R5-2
+#
+# CMP 18
+CMP 3 -0.2071045 0.4246271 206.00030242 N P2 Header_5HSMD ;0=1,1=0.1339
+PRP Category 'Headers and Wire Housings'
+PRP Color 'Natural'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/22699/1841145-22699961.pdf?src-supplier=Element14'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/22699/1841145-22699961.pdf?src-supplier=Element14'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/6083/1688141-6083001.pdf?src-supplier=Farnell'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/6083/1688141-6083001.pdf?src-supplier=Farnell'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/34303/1932563-34303344.pdf?src-supplier=Jameco'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/34303/1932563-34303344.pdf?src-supplier=Jameco'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/22680/1688141-22680432.pdf?src-supplier=Element14'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/22680/1688141-22680432.pdf?src-supplier=Element14'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/5150/0532610571-pcb-headers-170968-5150765.pdf?src-supplier=Mouser'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/5150/0532610571-pcb-headers-170968-5150765.pdf?src-supplier=Mouser'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/11747/0900766b8078fc8e-11747013.pdf?src-supplier=RSComponents'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/11747/0900766b8078fc8e-11747013.pdf?src-supplier=RSComponents'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/14488/1841145-14488445.pdf?src-supplier=Farnell'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/14488/1841145-14488445.pdf?src-supplier=Farnell'
+PRP ComponentLink8Description 'https://datasheet.ciiva.com/14156/gh116861-116874-e-14156229.pdf?src-supplier=Distrelec'
+PRP ComponentLink8URL 'https://datasheet.ciiva.com/14156/gh116861-116874-e-14156229.pdf?src-supplier=Distrelec'
+PRP ComponentLink9Description 'https://datasheet.ciiva.com/9468/0532610571-pcb-headers-9468503.pdf?src-supplier=Avnet'
+PRP ComponentLink9URL 'https://datasheet.ciiva.com/9468/0532610571-pcb-headers-9468503.pdf?src-supplier=Avnet'
+PRP ComponentLink10Description 'https://datasheet.ciiva.com/48768/0532610571-pcb-headers-48768266.pdf?src-supplier=Avnet'
+PRP ComponentLink10URL 'https://datasheet.ciiva.com/48768/0532610571-pcb-headers-48768266.pdf?src-supplier=Avnet'
+PRP ComponentLink11Description 'https://datasheet.ciiva.com/30252/225250532610571-pcb-headers-30252935.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink11URL 'https://datasheet.ciiva.com/30252/225250532610571-pcb-headers-30252935.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink12Description 'https://datasheet.ciiva.com/16658/0532610571-pcb-headers-16658426.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink12URL 'https://datasheet.ciiva.com/16658/0532610571-pcb-headers-16658426.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink13Description 'https://datasheet.ciiva.com/17086/70266923-17086171.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink13URL 'https://datasheet.ciiva.com/17086/70266923-17086171.pdf?src-supplier=Allied+Electronics'
+PRP Contact_Material 'Bronze,Brass,Tin'
+PRP Contact_Plating 'Tin'
+PRP Contact_Type 'Blade Pin'
+PRP Current_Rating '1A'
+PRP Depth '5.2mm'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Gender 'Male'
+PRP Glow_Wire_Compliant 'Non-compliant'
+PRP Housing_Color 'Natural'
+PRP Housing_Material 'Nylon'
+PRP Insulation_Resistance '100MR'
+PRP Lead_Free 'Lead Free'
+PRP Manufacturer 'Molex'
+PRP Manufacturer_Part_Number '53261-0571'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '5'
+PRP Number_of_Contacts '5'
+PRP Number_of_Positions '5'
+PRP Number_of_Rows '1'
+PRP Orientation 'Right Angle'
+PRP Package_Quantity '1000'
+PRP Packaging 'Tape and Reel'
+PRP PartNumber '532610571'
+PRP Pitch '1.25mm'
+PRP Pricing_1 '1=0,65000, 10=0,55000, 100=0,42780 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'PicoBlade'
+PRP Stock_1 '22450'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'WM7623CT-ND'
+PRP Termination 'Solder'
+PRP Voltage_Rating '125V'
+PRP Voltage_Rating_(AC) '125V'
+PRP Voltage_Rating_(DC) '125V'
+PRP Working_Voltage '125V'
+TOP 0 -0.2955694 0.3814797 334 N 52 4 P2-1
+TOP 1 -0.2513363 0.403054 334 N 53 30 P2-2
+TOP 2 -0.2071045 0.4246271 334 N 51 3 P2-3
+TOP 3 -0.1628725 0.4461999 334 N 3 10 P2-4
+TOP 4 -0.1186409 0.4677748 334 N 4 10 P2-5
+TOP 5 -0.4358509 0.4400877 334 N 53 31 P2-M1
+TOP 6 -0.078459 0.6144015 154 N 53 32 P2-M2
+#
+# CMP 19
+CMP 8 0.3066202 -0.4220265 305.49391985 N SJ8 SJ ;0=1,1=0.0087
+PRP PartNumber ''
+TOP 0 0.3234831 -0.4456736 235 N 5 14 SJ8-1
+TOP 1 0.3336837 -0.422683 235 N 5 15 SJ8-1
+TOP 2 0.2984247 -0.4478278 235 N 5 16 SJ8-1
+TOP 3 0.2897569 -0.3983797 55 N 1 7 SJ8-2
+TOP 4 0.2795567 -0.42137 55 N 1 8 SJ8-2
+TOP 5 0.3148164 -0.3962253 55 N 1 9 SJ8-2
+#
+# CMP 20
+CMP 8 0.3876634 -0.3490537 317.46255021 N SJ7 SJ ;0=1,1=0.0087
+PRP PartNumber ''
+TOP 0 0.4090628 -0.3686881 223 N 5 4 SJ7-1
+TOP 1 0.4142743 -0.3440838 223 N 5 5 SJ7-1
+TOP 2 0.3849966 -0.3759931 223 N 5 6 SJ7-1
+TOP 3 0.3662623 -0.3294181 43 N 3 2 SJ7-2
+TOP 4 0.3610518 -0.3540241 43 N 3 3 SJ7-2
+TOP 5 0.3903298 -0.3221141 43 N 3 4 SJ7-2
+#
+# CMP 21
+CMP 8 0.4517644 -0.2608263 330.28735696 N SJ6 SJ ;0=1,1=0.0087
+PRP PartNumber ''
+TOP 0 0.4769898 -0.2752222 210 N 5 7 SJ6-1
+TOP 1 0.4766092 -0.2500726 210 N 5 8 SJ6-1
+TOP 2 0.455143 -0.287686 210 N 5 9 SJ6-1
+TOP 3 0.426539 -0.2464304 30 N 4 2 SJ6-2
+TOP 4 0.4269199 -0.2715794 30 N 4 3 SJ6-2
+TOP 5 0.4483856 -0.2339666 30 N 4 4 SJ6-2
+#
+# CMP 22
+CMP 8 0.496122 -0.1611998 342.67625951 N SJ5 SJ ;0=1,1=0.0087
+PRP PartNumber ''
+TOP 0 0.5238489 -0.1698483 197 N 5 10 SJ5-1
+TOP 1 0.5180808 -0.1453669 197 N 5 11 SJ5-1
+TOP 2 0.5051853 -0.1867097 197 N 5 12 SJ5-1
+TOP 3 0.4683961 -0.1525516 17 N 53 13 SJ5-2
+TOP 4 0.474163 -0.1770334 17 N 53 14 SJ5-2
+TOP 5 0.4870587 -0.1356898 17 N 53 15 SJ5-2
+#
+# CMP 23
+CMP 1 -0.3622047 0.0314961 90 N L26 600R@100MHz ;0=1,1=0.0217
+PRP PartNumber 'CBG100505U601T'
+TOP 0 -0.3622039 0.0504947 90 N 51 2 L26-1
+TOP 1 -0.3622041 0.0124964 90 N 1 5 L26-2
+#
+# CMP 24
+CMP 2 -0.3976378 0.2559055 0 N L25 600R@100MHz ;0=1,1=0.0492
+PRP PartNumber 'CBW201209U601T'
+TOP 0 -0.3606367 0.2559072 180 N 52 3 L25-1
+TOP 1 -0.4346372 0.2559078 180 N 2 6 L25-2
+#
+# CMP 25
+CMP 0 -0.4173228 0.0314961 270 N C4 C-EUC0402 ;0=1,1=0.0217
+PRP Parameter_1 ''
+PRP PartNumber 'CL05B104KO5NNNC'
+PRP Value '100n'
+PRP Voltage '16V'
+TOP 0 -0.4173215 0.0124973 270 N 1 4 C4-1
+TOP 1 -0.4173228 0.0504956 270 N 53 29 C4-2
+#
+# CMP 26
+CMP 0 -0.3622047 0.1141732 270 N C3 C-EUC0402 ;0=1,1=0.0217
+PRP PartNumber 'CL05B103KA5NNNC'
+PRP Value '10n'
+PRP Voltage '16V'
+TOP 0 -0.3622036 0.0951736 270 N 51 0 C3-1
+TOP 1 -0.3622036 0.1331733 270 N 53 16 C3-2
+#
+# CMP 27
+CMP 0 -0.3937008 0.1811024 180 N C2 C-EUC0402 ;0=1,1=0.0217
+PRP Parameter_1 ''
+PRP PartNumber 'CL05B104KO5NNNC'
+PRP Value '100n'
+PRP Voltage '16V'
+TOP 0 -0.4127003 0.1811013 0 N 2 3 C2-1
+TOP 1 -0.3746999 0.1811017 0 N 53 17 C2-2
+#
+# CMP 28
+CMP 0 -0.3070866 0.2204724 90 N C1 C-EUC0402 ;0=1,1=0.0217
+PRP PartNumber 'CL05B103KA5NNNC'
+PRP Value '10n'
+PRP Voltage '16V'
+TOP 0 -0.3070845 0.239472 90 N 52 1 C1-1
+TOP 1 -0.3070882 0.201474 90 N 53 18 C1-2
+#
+# CMP 29
+CMP 11 0.2755906 -0.2559055 225 N C5 Tantalum_Case-A ;0=1,1=0.0000
+PRP PartNumber 'CA45-A016K106T'
+PRP Value '10u'
+PRP Voltage '16V'
+TOP 0 0.2435763 -0.2879206 315 N 2 8 C5-+
+TOP 1 0.3076054 -0.2238914 135 N 53 37 C5--
+#
+# CMP 30
+CMP 10 -0.4015748 -0.1220472 270 N SJ10 SJ2W ;0=1,1=0.0000
+PRP PartNumber ''
+TOP 0 -0.4015747 -0.1750487 270 N 26 2 SJ10-1
+TOP 1 -0.4015748 -0.1220472 270 N 1 13 SJ10-2
+TOP 2 -0.4015749 -0.0690457 90 N 27 2 SJ10-3
+#
+# CMP 31
+CMP 4 0 -0.4488189 315 N U1 IS31FL3746A ;0=1,1=0.0295
+PRP PartNumber 'IS31FL3746A'
+TOP 0 0.0931213 -0.4639909 315 N 8 1 U1-1
+TOP 1 0.0819857 -0.4751266 315 N 9 1 U1-2
+TOP 2 0.0708503 -0.4862619 315 N 10 1 U1-3
+TOP 3 0.0597145 -0.4973978 315 N 11 1 U1-4
+TOP 4 0.0485787 -0.5085342 315 N 12 1 U1-5
+TOP 5 0.037443 -0.519669 315 N 13 1 U1-6
+TOP 6 0.026308 -0.5308047 315 N 14 1 U1-7
+TOP 7 0.0151717 -0.5419392 315 N 15 1 U1-8
+TOP 8 -0.015172 -0.5419402 225 N 53 33 U1-9
+TOP 9 -0.0263073 -0.5308043 225 N 16 1 U1-10
+TOP 10 -0.0374435 -0.5196684 225 N 17 1 U1-11
+TOP 11 -0.0485789 -0.5085334 225 N 18 1 U1-12
+TOP 12 -0.0597138 -0.4973979 225 N 19 1 U1-13
+TOP 13 -0.0708501 -0.4862619 225 N 20 1 U1-14
+TOP 14 -0.0819858 -0.4751269 225 N 21 1 U1-15
+TOP 15 -0.093121 -0.4639911 225 N 22 1 U1-16
+TOP 16 -0.0931205 -0.433647 315 N 23 1 U1-17
+TOP 17 -0.0819854 -0.4225116 315 N 24 1 U1-18
+TOP 18 -0.0708495 -0.4113754 315 N 1 6 U1-19
+TOP 19 -0.0597142 -0.4002405 315 N 50 2 U1-20
+TOP 20 -0.048579 -0.3891051 315 N 4 11 U1-21
+TOP 21 -0.037443 -0.3779688 315 N 6 13 U1-22
+TOP 22 -0.026308 -0.3668331 315 N 3 11 U1-23
+TOP 23 -0.0151715 -0.3556981 315 N 5 13 U1-24
+TOP 24 0.0151719 -0.3556989 225 N 49 0 U1-25
+TOP 25 0.0263073 -0.3668335 225 N 45 0 U1-26
+TOP 26 0.0374435 -0.3779694 225 N 44 0 U1-27
+TOP 27 0.0485784 -0.3891047 225 N 43 0 U1-28
+TOP 28 0.0597153 -0.4002402 225 N 2 7 U1-29
+TOP 29 0.0708501 -0.4113759 225 N 53 34 U1-30
+TOP 30 0.081986 -0.4225113 225 N 25 0 U1-31
+TOP 31 0.0931208 -0.4336474 225 N 7 0 U1-32
+TOP 32 0 -0.4488189 225 N 53 35 U1-33
+#
+# CMP 32
+CMP 9 0.5187958 -0.0545276 355.03580248 N SJ4 SJ ;0=1,1=0.0000
+PRP PartNumber ''
+TOP 0 0.5331092 -0.077506 185 N 6 14 SJ4-1
+TOP 1 0.5368567 -0.034361 185 N 6 15 SJ4-1
+TOP 2 0.5477303 -0.0570404 185 N 6 16 SJ4-1
+TOP 3 0.5044827 -0.0315494 5 N 1 10 SJ4-2
+TOP 4 0.5007352 -0.0746937 5 N 1 11 SJ4-2
+TOP 5 0.4898613 -0.0520146 5 N 1 12 SJ4-2
+#
+# CMP 33
+CMP 8 0.5187957 0.0545276 7.35002279 N SJ3 SJ ;0=1,1=0.0000
+PRP PartNumber ''
+TOP 0 0.5476001 0.0582431 173 N 6 4 SJ3-1
+TOP 1 0.5321403 0.0780813 173 N 6 5 SJ3-1
+TOP 2 0.5376805 0.0351303 173 N 6 6 SJ3-1
+TOP 3 0.4899906 0.0508119 353 N 3 5 SJ3-2
+TOP 4 0.5054513 0.0309731 353 N 3 6 SJ3-2
+TOP 5 0.4999107 0.0739243 353 N 3 7 SJ3-2
+#
+# CMP 34
+CMP 9 0.496122 0.1611998 19.60456652 N SJ2 SJ ;0=1,1=0.0000
+PRP PartNumber ''
+TOP 0 0.5186938 0.1462528 160 N 6 7 SJ2-1
+TOP 1 0.5041625 0.1870496 160 N 6 8 SJ2-1
+TOP 2 0.5234816 0.1709443 160 N 6 9 SJ2-1
+TOP 3 0.4735502 0.1761461 340 N 4 5 SJ2-2
+TOP 4 0.4880813 0.1353491 340 N 4 6 SJ2-2
+TOP 5 0.4687627 0.1514546 340 N 4 7 SJ2-2
+#
+# CMP 35
+CMP 9 0.4517644 0.2608263 31.78693637 N SJ1 SJ ;0=1,1=0.0000
+PRP PartNumber ''
+TOP 0 0.4769824 0.2509795 148 N 6 10 SJ1-1
+TOP 1 0.4541698 0.2877909 148 N 6 11 SJ1-1
+TOP 2 0.476451 0.2761256 148 N 6 12 SJ1-1
+TOP 3 0.4265476 0.2706738 328 N 53 19 SJ1-2
+TOP 4 0.4493599 0.2338618 328 N 53 20 SJ1-2
+TOP 5 0.4270777 0.2455268 328 N 53 21 SJ1-2
+#
+# CMP 36
+CMP 6 0.1929134 -0.4251969 0 N R4 R-EU_R0402 ;0=1,1=0.0157
+PRP PartNumber 'RC-02W1002FT'
+PRP Value '10k'
+TOP 0 0.2119136 -0.4251969 180 N 53 36 R4-1
+TOP 1 0.1739135 -0.4251965 180 N 25 1 R4-2
+#
+# CMP 37
+CMP 6 -0.2204724 -0.3316929 90 N R3 R-EU_R0402 ;0=1,1=0.0157
+PRP PartNumber '0402WGJ0472TCE'
+PRP Value '4k7'
+TOP 0 -0.2204724 -0.3126928 90 N 50 0 R3-1
+TOP 1 -0.2204723 -0.3506929 90 N 1 2 R3-2
+#
+# CMP 38
+CMP 6 -0.3897638 -0.2480315 270 N R2 R-EU_R0402 ;0=1,1=0.0157
+PRP PartNumber '0402WGJ0472TCE'
+PRP Value '4k7'
+TOP 0 -0.3897638 -0.2670314 270 N 4 8 R2-1
+TOP 1 -0.3897636 -0.229031 270 N 26 1 R2-2
+#
+# CMP 39
+CMP 6 -0.3346457 -0.2401575 270 N R1 R-EU_R0402 ;0=1,1=0.0157
+PRP PartNumber '0402WGJ0472TCE'
+PRP Value '4k7'
+TOP 0 -0.3346457 -0.2591575 270 N 3 8 R1-1
+TOP 1 -0.3346455 -0.2211572 270 N 27 1 R1-2
+#
+# CMP 40
+CMP 3 0.2071045 0.4246271 153.99999595 N P1 Header_5HSMD ;0=1,1=0.1339
+PRP Category 'Headers and Wire Housings'
+PRP Color 'Natural'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/22699/1841145-22699961.pdf?src-supplier=Element14'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/22699/1841145-22699961.pdf?src-supplier=Element14'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/6083/1688141-6083001.pdf?src-supplier=Farnell'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/6083/1688141-6083001.pdf?src-supplier=Farnell'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/34303/1932563-34303344.pdf?src-supplier=Jameco'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/34303/1932563-34303344.pdf?src-supplier=Jameco'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/22680/1688141-22680432.pdf?src-supplier=Element14'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/22680/1688141-22680432.pdf?src-supplier=Element14'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/5150/0532610571-pcb-headers-170968-5150765.pdf?src-supplier=Mouser'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/5150/0532610571-pcb-headers-170968-5150765.pdf?src-supplier=Mouser'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/11747/0900766b8078fc8e-11747013.pdf?src-supplier=RSComponents'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/11747/0900766b8078fc8e-11747013.pdf?src-supplier=RSComponents'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/14488/1841145-14488445.pdf?src-supplier=Farnell'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/14488/1841145-14488445.pdf?src-supplier=Farnell'
+PRP ComponentLink8Description 'https://datasheet.ciiva.com/14156/gh116861-116874-e-14156229.pdf?src-supplier=Distrelec'
+PRP ComponentLink8URL 'https://datasheet.ciiva.com/14156/gh116861-116874-e-14156229.pdf?src-supplier=Distrelec'
+PRP ComponentLink9Description 'https://datasheet.ciiva.com/9468/0532610571-pcb-headers-9468503.pdf?src-supplier=Avnet'
+PRP ComponentLink9URL 'https://datasheet.ciiva.com/9468/0532610571-pcb-headers-9468503.pdf?src-supplier=Avnet'
+PRP ComponentLink10Description 'https://datasheet.ciiva.com/48768/0532610571-pcb-headers-48768266.pdf?src-supplier=Avnet'
+PRP ComponentLink10URL 'https://datasheet.ciiva.com/48768/0532610571-pcb-headers-48768266.pdf?src-supplier=Avnet'
+PRP ComponentLink11Description 'https://datasheet.ciiva.com/30252/225250532610571-pcb-headers-30252935.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink11URL 'https://datasheet.ciiva.com/30252/225250532610571-pcb-headers-30252935.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink12Description 'https://datasheet.ciiva.com/16658/0532610571-pcb-headers-16658426.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink12URL 'https://datasheet.ciiva.com/16658/0532610571-pcb-headers-16658426.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink13Description 'https://datasheet.ciiva.com/17086/70266923-17086171.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink13URL 'https://datasheet.ciiva.com/17086/70266923-17086171.pdf?src-supplier=Allied+Electronics'
+PRP Contact_Material 'Bronze,Brass,Tin'
+PRP Contact_Plating 'Tin'
+PRP Contact_Type 'Blade Pin'
+PRP Current_Rating '1A'
+PRP Depth '5.2mm'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Gender 'Male'
+PRP Glow_Wire_Compliant 'Non-compliant'
+PRP Housing_Color 'Natural'
+PRP Housing_Material 'Nylon'
+PRP Insulation_Resistance '100MR'
+PRP Lead_Free 'Lead Free'
+PRP Manufacturer 'Molex'
+PRP Manufacturer_Part_Number '53261-0571'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '5'
+PRP Number_of_Contacts '5'
+PRP Number_of_Positions '5'
+PRP Number_of_Rows '1'
+PRP Orientation 'Right Angle'
+PRP Package_Quantity '1000'
+PRP Packaging 'Tape and Reel'
+PRP PartNumber '532610571'
+PRP Pitch '1.25mm'
+PRP Pricing_1 '1=0,65000, 10=0,55000, 100=0,42780 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'PicoBlade'
+PRP Stock_1 '22450'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'WM7623CT-ND'
+PRP Termination 'Solder'
+PRP Voltage_Rating '125V'
+PRP Voltage_Rating_(AC) '125V'
+PRP Voltage_Rating_(DC) '125V'
+PRP Working_Voltage '125V'
+TOP 0 0.1186413 0.4677744 26 N 52 2 P1-1
+TOP 1 0.1628727 0.4462018 26 N 53 24 P1-2
+TOP 2 0.2071045 0.4246271 26 N 51 1 P1-3
+TOP 3 0.2513354 0.4030548 26 N 3 9 P1-4
+TOP 4 0.2955693 0.3814817 26 N 4 9 P1-5
+TOP 5 0.0784572 0.6144026 26 N 53 23 P1-M1
+TOP 6 0.4358523 0.440089 206 N 53 22 P1-M2
+#
+# CMP 41
+CMP 0 -0.2911583 -0.3217989 0 N C9 C-EUC0402 ;0=1,1=0.0157
+PRP PartNumber 'CL05B104KO5NNNC'
+PRP Value '100n'
+PRP Voltage '16V'
+TOP 0 -0.2721583 -0.3217991 180 N 50 1 C9-1
+TOP 1 -0.3101583 -0.3217991 180 N 53 25 C9-2
+#
+# CMP 42
+CMP 0 -0.1574803 -0.3336614 270 N C8 C-EUC0402 ;0=1,1=0.0157
+PRP PartNumber 'CL05A474KA5NNNC'
+PRP Value '470n'
+PRP Voltage '16V'
+TOP 0 -0.1574806 -0.3526612 270 N 1 3 C8-1
+TOP 1 -0.1574805 -0.3146614 270 N 53 26 C8-2
+#
+# CMP 43
+CMP 0 0.1535433 -0.3622047 135 N C7 C-EUC0402 ;0=1,1=0.0157
+PRP Parameter_1 ''
+PRP PartNumber 'CL05B104KO5NNNC'
+PRP Value '100n'
+PRP Voltage '16V'
+TOP 0 0.1401086 -0.3487693 45 N 2 4 C7-1
+TOP 1 0.1669787 -0.375639 45 N 53 27 C7-2
+#
+# CMP 44
+CMP 0 0.1968504 -0.3307087 135 N C6 C-EUC0402 ;0=1,1=0.0157
+PRP PartNumber 'CL05A474KA5NNNC'
+PRP Value '470n'
+PRP Voltage '16V'
+TOP 0 0.1834152 -0.317274 45 N 2 5 C6-1
+TOP 1 0.2102856 -0.3441439 45 N 53 28 C6-2
+#
